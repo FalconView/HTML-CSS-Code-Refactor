@@ -1,6 +1,6 @@
 # HTML-CSS-Code-Refactor
 
-Updated the website so that it meets all standards of accessibility requirements and is optimized for search engine.
+Updated the website in order to meet all standards of accessibility requirements and is optimized for search engine.
 
 # This website was built with:
 - HTML
