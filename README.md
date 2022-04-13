@@ -7,11 +7,11 @@ Updated the website in order to meet all standards of accessibility requirements
 - CSS
 
 # Updates
-- Added comments - easy to read and edit the code
-- Changed to semantice elements - be much optimized for search engines
-- Organized styles - easy to read and edit the code, reduce loading time of the page
+- Added comments - made the code more readable
+- Semantically used correct elements - optimized it for search engines
+- Organized styles - easy to read and edit the code, reduce prolong loading of the page
 - Added links - easy to go back to the home page, rectified the broken navigation link
-- Added alt attributes - be accessible to those who use screen reader
+- Added alt attributes - be accessible to those who lack vision and use screen reader
 
 # Website 
 https://github.com/FalconView/HTML-CSS-Code-Refactor
